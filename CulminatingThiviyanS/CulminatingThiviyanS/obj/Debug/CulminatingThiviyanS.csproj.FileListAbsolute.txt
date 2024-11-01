@@ -1,0 +1,15 @@
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\bin\Debug\CulminatingThiviyanS.exe.config
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\bin\Debug\CulminatingThiviyanS.exe
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\bin\Debug\CulminatingThiviyanS.pdb
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.csproj.AssemblyReference.cache
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.Properties.Resources.resources
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.TanksGame.resources
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.csproj.GenerateResource.cache
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.csproj.CoreCompileInputs.cache
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.exe
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.pdb
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.Images.resources
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.StartMenu.resources
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.HowToPlay.resources
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.StartGame.resources
+G:\My Drive\ICS3U1ThiviyanS\CulminatingThiviyanS\CulminatingThiviyanS\obj\Debug\CulminatingThiviyanS.TanksLeaderboard.resources
